@@ -2,9 +2,10 @@ OpenMash Calendar Fixture Generator
 ===================================
 
 The OpenMash calendar fixture generator is a test tool to aid manual testing of
-the [OpenMash Saturn]() calendar frontend. The fixture generator handles generating
-a large number of events in both user and shared calendars, with some of the events
-spanning multiple days, and some of the events associated with multiple users.
+the [OpenMash Saturn](https://github.com/openmash/saturn) calendar frontend. The
+fixture generator handles generating a large number of events in both user and
+shared calendars, with some of the events spanning multiple days, and some of
+the events associated with multiple users.
 
 
 Installation
